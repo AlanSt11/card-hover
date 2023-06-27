@@ -1,2 +1,2 @@
 # card-hover
-![Alt text](https://github.com/AlanSt11/card-hover/blob/main/img-1.jpg)
+![Alt text](https://github.com/AlanSt11/card-hover/blob/main/tarjeta%20hover.png)
